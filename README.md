@@ -11,11 +11,11 @@ Este dahboard permite conocer los resultados del trabajo de dos colaboradores de
 ### Página : Resumen
 En esta página se muestra un resumen de todos los KPI's más importantes para gerencia general. Estos son:
 
-1) Total de llamadas: Indica la cantidad de llamadas realizadas en conjunto dentro del intervalo de tiempo filtrado.
+1) Total de llamadas: Indica la cantidad de llamadas realizadas en conjunto dentro del intervalo de tiempo analizado.
 
 ![Captura de pantalla 2024-07-09 201450](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/fc2c52f0-da25-455a-91d4-34a1256849d2)
 
-2) Promedio llamadas diarias: Indica el promedio de llamadas realizadas en conjunto día a día dentro del intervalo de tiempo filtrado.
+2) Promedio llamadas diarias: Indica el promedio de llamadas realizadas en conjunto día a día dentro del intervalo de tiempo analizado.
 
 ![Captura de pantalla 2024-07-09 201827](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/4be1d18b-cbbc-4d27-b900-1d0417d9a405)
 
@@ -53,18 +53,18 @@ $Tasa De Contactos Indirectos = \frac{[Cantidad De Contactos Indirectos]}{[Canti
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/0f5b35f5-82a1-4a28-96ac-bfea307fc15e)
 
-8) *Gráfico - Cantidad de llamadas por responsable:* Comparativa de la cantidad de llamadas realizadas por cada colaborador dentro del intervalo de tiempo filtrado.
+8) *Gráfico - Cantidad de llamadas por responsable:* Comparativa de la cantidad de llamadas realizadas por cada colaborador dentro del intervalo de tiempo analizado.
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/57d7a9a5-e777-45fd-b919-f18d2ac0eb68)
 
-9) *Gráfico - Cantidad de llamadas atendidas por responsable:* Comparativa de la cantidad de llamadas atendidas que tiene colaborador dentro del intervalo de tiempo filtrado.
+9) *Gráfico - Cantidad de llamadas atendidas por responsable:* Comparativa de la cantidad de llamadas atendidas que tiene colaborador dentro del intervalo de tiempo analizado.
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/025366be-1b82-497e-a700-3e8eaac2f848)
 
-10) *Gráfico - Ratio contactabilidad:* Comparativa del ratio de contactabilidad que tiene colaborador dentro del intervalo de tiempo filtrado.
+10) *Gráfico - Ratio contactabilidad:* Comparativa del ratio de contactabilidad que tiene colaborador dentro del intervalo de tiempo analizado.
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/3d7bea1f-d80c-4d40-9111-3522fb702ef4)
 
-11) *Gráfico - Ratio conversión:* Comparativa del ratio de conversión que tiene colaborador dentro del intervalo de tiempo filtrado.
+11) *Gráfico - Ratio conversión:* Comparativa del ratio de conversión que tiene colaborador dentro del intervalo de tiempo analizado.
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/4ffb5535-377b-4ee0-a21f-9397ed298e42)
