@@ -1,6 +1,6 @@
-# Call Center Dashboard
+# Call Center Power BI Dashboard
 
-Un dashboard que permite visualizar el resultado de los KPI's de call center más importantes para el negocio.
+Un dashboard creado en Power BI, con funciones DAX, que permite visualizar el resultado de los KPI's de call center más importantes para el negocio.
 
 ![image](https://github.com/iamsanbarb/CallCenterDashboard/assets/67486683/a3b5c919-dbea-4307-9ed5-67f4c2bca4fa)
 
